@@ -8,3 +8,5 @@
 ## Instructions
  1. Complete the first seven lessons from learnyounode, up to and including "HTTP CLIENT".  Figure out the answers with the other people in class!
  1. `git add`, `push`, and `submit` a screenshot showing that you've completed the first seven lessons.
+
+:+1: PASSED
